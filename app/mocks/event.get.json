@@ -1,0 +1,28 @@
+{
+  "result": [
+    {
+      "eventid": "201",
+      "clock": 1700001000,
+      "value": "1",
+      "severity": "4",
+      "name": "Backup failure backup-01",
+      "hosts": [{"host": "backup-01"}]
+    },
+    {
+      "eventid": "202",
+      "clock": 1700002000,
+      "value": "0",
+      "severity": "1",
+      "name": "Backup success backup-01",
+      "hosts": [{"host": "backup-01"}]
+    },
+    {
+      "eventid": "203",
+      "clock": 1700003000,
+      "value": "1",
+      "severity": "3",
+      "name": "Infrastructure alert db-node",
+      "hosts": [{"host": "db-node"}]
+    }
+  ]
+}

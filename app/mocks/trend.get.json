@@ -1,0 +1,20 @@
+{
+  "result": [
+    {"itemid": "10001", "clock": 1700000000, "value_avg": "40.0"},
+    {"itemid": "10001", "clock": 1700000600, "value_avg": "42.1"},
+    {"itemid": "10001", "clock": 1700001200, "value_avg": "41.5"},
+    {"itemid": "10001", "clock": 1700001800, "value_avg": "40.8"},
+    {"itemid": "10001", "clock": 1700002400, "value_avg": "41.2"},
+    {"itemid": "10001", "clock": 1700003000, "value_avg": "42.3"},
+    {"itemid": "10001", "clock": 1700003600, "value_avg": "96.0"},
+    {"itemid": "10001", "clock": 1700004200, "value_avg": "43.1"},
+    {"itemid": "10002", "clock": 1700000000, "value_avg": "60.0"},
+    {"itemid": "10002", "clock": 1700000600, "value_avg": "61.4"},
+    {"itemid": "10002", "clock": 1700001200, "value_avg": "60.8"},
+    {"itemid": "10002", "clock": 1700001800, "value_avg": "60.2"},
+    {"itemid": "10002", "clock": 1700002400, "value_avg": "60.9"},
+    {"itemid": "10002", "clock": 1700003000, "value_avg": "61.1"},
+    {"itemid": "10002", "clock": 1700003600, "value_avg": "60.6"},
+    {"itemid": "10002", "clock": 1700004200, "value_avg": "60.4"}
+  ]
+}

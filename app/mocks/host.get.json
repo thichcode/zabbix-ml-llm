@@ -1,0 +1,20 @@
+{
+  "result": [
+    {
+      "hostid": "101",
+      "host": "backup-01",
+      "name": "backup-01",
+      "status": "0",
+      "available": "1",
+      "groups": [{"name": "Backup"}]
+    },
+    {
+      "hostid": "102",
+      "host": "db-node",
+      "name": "db-node",
+      "status": "0",
+      "available": "1",
+      "groups": [{"name": "Infrastructure"}]
+    }
+  ]
+}
